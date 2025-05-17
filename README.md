@@ -25,6 +25,9 @@
 - **模拟数据**：Mock.js (前端独立开发的好帮手)
 
 ## 🚀 快速开始
+![image](https://github.com/user-attachments/assets/b93c7b91-1f44-45bb-abff-2f475abdeac4)
+
+![image](https://github.com/user-attachments/assets/d3d88f1b-6901-40e6-8834-f494ebf17b06)
 
 ### 1️⃣ 安装依赖
 
